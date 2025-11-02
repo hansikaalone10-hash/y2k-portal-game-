@@ -10,7 +10,7 @@ A nostalgic Y2K-style browser mini-game — built from scratch using **HTML, CSS
 - Survive as long as you can before the portal collapses!  
 
 ## 🌐 Play it Live  
-👉 [Play Here](https://hansikaalone10-hash.github.io/Y2K-Portal-Game/)  
+👉 [Play Here](https://hansikaalone10-hash.github.io/y2k-portal-game-/)
 💾 [Source Code](https://github.com/hansikaalone10-hash/Y2K-Portal-Game)  
 
 ## 🧠 Built With  
