@@ -20,5 +20,6 @@ A nostalgic Y2K-style browser mini-game — built from scratch using **HTML, CSS
 
 ## 💬 About  
 This was my first web dev experiment — combining creativity, aesthetics, and coding.  
-It taught me how logic and imagination can blend perfectly in a single project! 🚀  
+It taught me how logic and imagination can blend perfectly in a single project! 🚀 
+currently working on only pc
 
